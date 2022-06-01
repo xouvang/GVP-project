@@ -1,0 +1,62 @@
+body {
+    background-color: #f4f4f4;
+    color: #000;
+    font-family: Source Code Pro;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a {
+    color: blue;
+}
+
+
+.timeline h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.timeline li {
+    padding-bottom: 6px;}
+
+aside {
+    text-align: center;
+}
+
+#showcase {
+    text-align: right;
+    background-image: url(/images/vangpao2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 240px;
+    margin: auto;
+}
+
+#showcase h1 {
+    color: yellow;
+    font-size: 40px;
+    line-height: 1.6em;
+}
+
+#main {
+    background-color: lightgray;
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#main-header {
+    background-color: lightgray;
+    color: #fff;
+}
+
+#main-footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    margin-top: 40px;
+}
